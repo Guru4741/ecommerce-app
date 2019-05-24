@@ -1,3 +1,3 @@
 # ecommerce-app
 Ecommerce App
-![alt tag](https://imgur.com/ACgbm2t)
+![alt tag](https://i.imgur.com/ACgbm2t.png)
