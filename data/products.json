@@ -1,0 +1,30 @@
+[
+    {
+        "id": "0.7019167063789844",
+        "title": "Old India",
+        "imageUrl": "https://i.imgur.com/CacwsLO.png",
+        "description": "Collection of Vintage India Photographs",
+        "price": "20"
+    },
+    {
+        "id": "0.6099243208981384",
+        "title": "Indian Thugs",
+        "imageUrl": "https://i.imgur.com/7iRE1uy.png",
+        "description": "History of Indian Thugs",
+        "price": "20"
+    },
+    {
+        "id": "0.7554254183266425",
+        "title": "Madhubala",
+        "imageUrl": "https://i.imgur.com/B9slhOG.png",
+        "description": "Life of Indian Venice",
+        "price": "25"
+    },
+    {
+        "id": "0.5880884449962398",
+        "title": "Indian Cricket Legends",
+        "imageUrl": "https://i.imgur.com/8TD78sY.png",
+        "description": "Rare Collections of Indian Cricket Legends",
+        "price": "30"
+    }
+]

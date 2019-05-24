@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "Gaurav4741",
+        "MONGO_PASSWORD": "Monica4741",
+        "MONGO_DEFAULT_DB": "shop",
+        "STRIP_KEY": "sk_test_PHASj21G6o67aMFJ2hjQfARj"
+    }
+}
